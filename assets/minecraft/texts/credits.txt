@@ -50,7 +50,34 @@
 §f			JOrbis by JCraft
 
 §7Texture pack used:
-§f			Dokucraft:The Saga Continues
+§f			DokuCraft TSC Dwarven
+
+§7Music used:
+§f			Evening Breeze
+§f			Spring Charm
+§f			Morning Dew
+§f			Cliffs of Moher
+§f			The Fall of Enêxa-Lir
+§f			Beautiful Dreams
+§f			Wild Flower
+§f			Ode to the Fallen
+§f			Kingdom of Bards
+§f			Land of the Free
+§f			What the Forest Taught Me
+§f			Phantom and a Rose
+§f			Star of Darkness
+§f			Circle of Life
+§f			A Celtic Tale
+§f			Gaelic Earth
+§f			Prophecy
+§f			A Celtic Lore
+§f			Where I Belong
+§f			Dance with the Trees
+§f			Hail to the King
+§f			Wolf Blood
+§f			Evocation
+
+§f			all Music by AdrianvonZiegler
 
 §7Texture pack creators:
 §f			Doku
@@ -166,8 +193,9 @@
 §f			Staretta
 §f			SpAcE_mOnKeY126
 §f			InfectedSkies
-§f			Radrin13
-§f			Sinisters_Textures
+§f      SyndiShanX
+§f      Joanarr
+
 
 
 
