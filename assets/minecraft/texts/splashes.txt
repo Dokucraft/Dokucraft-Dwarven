@@ -75,6 +75,7 @@ AlexDV96
 alvry
 amdalole
 anarchyAlex
+Anders Dahl
 AngeLestrange
 Anunitu
 Aoku
@@ -106,6 +107,7 @@ BoonslangMC
 Bosch
 Boyman
 BuddyHero087
+Bungo
 Bunster
 CadenDonuts
 Cadihu
@@ -151,6 +153,7 @@ darkpollopesca
 Darlat
 darthbrick
 DarthMisium
+DasChillyOne
 DaSPL
 Deathblow357
 DeathStar1710
@@ -162,6 +165,7 @@ DirtDiglett
 dist7action
 djangosp2
 DJNinjaLegend
+DogmanDolt
 Dornewyn
 Dragon_of_cool
 dragonmaster_95
@@ -186,7 +190,7 @@ enderlink12
 EonPhantom
 Erisiah
 EveryNameIWantIsTaken
-ewanhowell
+ewanhowell5195
 exiledalchemist
 Faen_run
 FallenSliver
@@ -207,6 +211,7 @@ Ganimir
 Gappy
 Garbage_Day
 garrett
+ghostpixxells
 Gnawl
 GrandpaBaconbit
 Grave110
@@ -257,6 +262,7 @@ Jade Knightblazer
 Jake_28
 JamieA350
 Janeator
+Janzoh
 JasmineTheDragon
 jdc997
 jedhaury
@@ -264,7 +270,6 @@ Jellytix
 JetStorm
 JForceGames
 Jimmy_sheep
-Jimmysheep
 jippii_ja
 jkirby97
 Jman37X
@@ -298,6 +303,7 @@ LadyEternal
 legoman1216
 lemonaiden
 Lemonous
+Lemunde
 Levaunt
 Levi_Kornelsen
 Levtus
@@ -331,11 +337,13 @@ manschopanscho
 Marshgray
 marvmarvmarv
 masternightmares
+Max_Novik
 mcdownie
 Mcholypotato
 MechaNecromancer
 megagiy2
 Melchior Dahrk
+melodysolver
 Metatron
 Mickey Joe Alpha
 MiloTheDevious
@@ -373,6 +381,7 @@ OliviaTheVampire
 Ollinolli2938
 omega234
 OmegaBattle
+onlyWolfSoul
 OPG_Simon
 OttoLrt
 Oys
@@ -384,6 +393,7 @@ Pazzaz
 PBiret
 Phibian
 pingawino
+PinkuRinku
 Pith
 Plussu
 Poisax
@@ -403,6 +413,7 @@ Ramireztime
 Ravenhound13
 RawRxFuZioNzZ
 Raziel_DSM
+reidyaro
 Rein20
 Reinharted
 Reizu
@@ -422,6 +433,7 @@ RowenStipe
 RuddiMinecraft
 Runesmith
 RustyRampRade
+Saikokyuno
 sairyfairyplays
 Samsonitej
 sander9847
@@ -438,6 +450,7 @@ Shaded26
 Shadow_Forge_Master
 shadownick22
 sharktamer
+shermanator121985
 shplongk
 Shufffy
 SilentMember
@@ -460,6 +473,7 @@ SpinBuilder
 SpitfireBro
 Stanicek3
 Staretta
+Starseeker
 Starstreak87
 StickyToVictory
 stjernh0lm
@@ -471,6 +485,7 @@ SunWukong
 suppermike
 sweetsosweet
 Swordclan
+Syna
 SyndiShanX
 Tarius
 TastedWasted
@@ -517,6 +532,7 @@ Valaron
 VeiDyn
 Verlest
 VickBe
+Voltina
 Vorsarith
 Wall_SoGB
 Warpshard
@@ -524,6 +540,8 @@ Watsof
 weekyZ
 werdna23
 Wessexstock
+WideSilly
+WildFyr
 WolfKit
 Wolv18
 Wolve64
