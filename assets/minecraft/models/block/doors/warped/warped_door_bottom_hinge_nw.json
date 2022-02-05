@@ -1,0 +1,58 @@
+{
+	"credit": "Made by SyndiShanX",
+	"ambientocclusion": false,
+	"textures": {
+		"bottom": "block/doors/warped_door_bottom",
+		"sides": "block/doors/warped_door_sides",
+		"particle": "block/doors/warped_door_bottom"
+	},
+	"elements": [
+		{
+			"name": "Door Bottom",
+			"from": [0, 0, 1],
+			"to": [3, 16, 17],
+			"faces": {
+				"north": {"uv": [6, 0, 3, 16], "texture": "#sides"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#bottom"},
+				"south": {"uv": [6, 0, 3, 16], "texture": "#sides"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
+				"up": {"uv": [0, 16, 3, 0], "rotation": 180, "texture": "#sides"},
+				"down": {"uv": [9, 16, 12, 0], "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Bottom Handle",
+			"from": [-0.25, 15.5, 12],
+			"to": [3.25, 16.5, 15.5],
+			"faces": {
+				"north": {"uv": [12, 9, 11.5, 10], "texture": "#bottom"},
+				"east": {"uv": [15, 9, 11.5, 10], "texture": "#bottom"},
+				"south": {"uv": [15, 9, 14.5, 10], "texture": "#bottom"},
+				"west": {"uv": [15, 9, 11.5, 10], "texture": "#bottom"},
+				"up": {"uv": [15, 10, 11.5, 9], "rotation": 90, "texture": "#bottom"},
+				"down": {"uv": [15, 10, 11.5, 9], "rotation": 90, "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "Door Bottom Metal",
+			"from": [-0.5, 6, 0.75],
+			"to": [3.5, 7, 16],
+			"faces": {
+				"north": {"uv": [4.5, 9, 0.5, 10], "texture": "#bottom", "cullface": "north"},
+				"east": {"uv": [15, 9, 0, 10], "texture": "#bottom"},
+				"south": {"uv": [15, 9, 11, 10], "texture": "#bottom"},
+				"west": {"uv": [15, 9, 0, 10], "texture": "#bottom"},
+				"up": {"uv": [15, 9, 0.5, 10], "rotation": 270, "texture": "#bottom"},
+				"down": {"uv": [15, 9, 0.5, 10], "rotation": 270, "texture": "#bottom"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Bottom",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

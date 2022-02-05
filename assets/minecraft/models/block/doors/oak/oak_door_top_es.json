@@ -1,0 +1,232 @@
+{
+	"credit": "Made by SyndiShanX",
+	"ambientocclusion": false,
+	"textures": {
+		"top": "block/doors/oak_door_top",
+		"sides": "block/doors/oak_door_sides",
+		"particle": "block/doors/oak_door_top"
+	},
+	"elements": [
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 3.5, 5],
+			"to": [4, 7.5, 6],
+			"faces": {
+				"north": {"uv": [10.5, 8.5, 11, 12.5], "texture": "#top"},
+				"east": {"uv": [10, 8.5, 11, 12.5], "texture": "#top"},
+				"south": {"uv": [9, 2.25, 12, 6.25], "texture": "#sides"},
+				"west": {"uv": [11, 8.5, 10, 12.5], "texture": "#top"},
+				"up": {"uv": [10.5, 8.5, 11, 9], "rotation": 180, "texture": "#top"},
+				"down": {"uv": [10.5, 12, 11, 12.5], "rotation": 180, "texture": "#top"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 3.5, 10],
+			"to": [4, 7.5, 11],
+			"faces": {
+				"north": {"uv": [9, 12, 12, 16], "texture": "#sides"},
+				"east": {"uv": [5, 8.5, 6, 12.5], "texture": "#top"},
+				"south": {"uv": [5, 8.5, 5.5, 12.5], "texture": "#top"},
+				"west": {"uv": [6, 8.5, 5, 12.5], "texture": "#top"},
+				"up": {"uv": [5, 8.5, 5.5, 9], "rotation": 180, "texture": "#top"},
+				"down": {"uv": [5, 12, 5.5, 12.5], "rotation": 180, "texture": "#top"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 3, 5.5],
+			"to": [4, 4, 10.5],
+			"faces": {
+				"north": {"uv": [10, 12.5, 10.5, 13], "texture": "#top"},
+				"east": {"uv": [10.5, 12, 5.5, 13], "texture": "#top"},
+				"south": {"uv": [5.5, 12.5, 6, 13], "texture": "#top"},
+				"west": {"uv": [10.5, 12, 5.5, 13], "texture": "#top"},
+				"up": {"uv": [9, 5.5, 12, 10.5], "rotation": 180, "texture": "#sides"},
+				"down": {"uv": [5.5, 12.5, 10.5, 13], "rotation": 90, "texture": "#top", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 8.5, 7],
+			"to": [4, 9.5, 9],
+			"faces": {
+				"north": {"uv": [8.5, 6.5, 9, 7.5], "texture": "#top"},
+				"east": {"uv": [7, 6.5, 9, 7.5], "texture": "#top"},
+				"south": {"uv": [7, 6.5, 7.5, 7.5], "texture": "#top"},
+				"west": {"uv": [9, 6.5, 7, 7.5], "texture": "#top"},
+				"up": {"uv": [7, 6.5, 9, 7], "rotation": 270, "texture": "#top"},
+				"down": {"uv": [9, 7.5, 12, 9.5], "rotation": 180, "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 9.5, 7.5],
+			"to": [4, 10, 8.5],
+			"faces": {
+				"north": {"uv": [8, 6, 8.5, 6.5], "texture": "#top"},
+				"east": {"uv": [7.5, 6, 8.5, 6.5], "texture": "#top"},
+				"south": {"uv": [7.5, 6, 8, 6.5], "texture": "#top"},
+				"west": {"uv": [8.5, 6, 7.5, 6.5], "texture": "#top"},
+				"up": {"uv": [7.5, 6, 8.5, 6.5], "rotation": 270, "texture": "#top"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 7.5, 6],
+			"to": [4, 8.5, 7],
+			"faces": {
+				"north": {"uv": [9.5, 7.5, 10, 8.5], "texture": "#top"},
+				"east": {"uv": [9, 7.5, 10, 8.5], "texture": "#top"},
+				"south": {"uv": [9, 7, 12, 8], "texture": "#sides"},
+				"west": {"uv": [10, 7.5, 9, 8.5], "texture": "#top"},
+				"up": {"uv": [9, 7.5, 10, 8], "rotation": 270, "texture": "#top"},
+				"down": {"uv": [9, 6, 12, 7], "rotation": 180, "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 8, 6.5],
+			"to": [4, 9, 7.5],
+			"faces": {
+				"north": {"uv": [9, 7, 9.5, 8], "texture": "#top"},
+				"east": {"uv": [8.5, 7, 9.5, 8], "texture": "#top"},
+				"south": {"uv": [9, 7, 12, 8], "texture": "#sides"},
+				"west": {"uv": [9.5, 7, 8.5, 8], "texture": "#top"},
+				"up": {"uv": [8.5, 7, 9.5, 7.5], "rotation": 270, "texture": "#top"},
+				"down": {"uv": [9, 6.5, 12, 7.5], "rotation": 180, "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 8, 8.5],
+			"to": [4, 9, 9.5],
+			"faces": {
+				"north": {"uv": [9, 9.5, 12, 10.5], "texture": "#sides"},
+				"east": {"uv": [6.5, 7, 7.5, 8], "texture": "#top"},
+				"south": {"uv": [6.5, 7, 7, 8], "texture": "#top"},
+				"west": {"uv": [7.5, 7, 6.5, 8], "texture": "#top"},
+				"up": {"uv": [6.5, 7, 7.5, 7.5], "rotation": 270, "texture": "#top"},
+				"down": {"uv": [9, 9.5, 11.75, 10.5], "rotation": 180, "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 7.5, 9],
+			"to": [4, 8.5, 10],
+			"faces": {
+				"north": {"uv": [9, 10, 12, 11], "texture": "#sides"},
+				"east": {"uv": [6, 7.5, 7, 8.5], "texture": "#top"},
+				"south": {"uv": [6, 7.5, 6.5, 8.5], "texture": "#top"},
+				"west": {"uv": [7, 7.5, 6, 8.5], "texture": "#top"},
+				"up": {"uv": [6, 7.5, 7, 8], "rotation": 270, "texture": "#top"},
+				"down": {"uv": [9, 10, 12, 11], "rotation": 180, "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 7, 9.5],
+			"to": [4, 8, 10.5],
+			"faces": {
+				"north": {"uv": [9, 10.5, 12, 11.5], "texture": "#sides"},
+				"east": {"uv": [5.5, 8, 6.5, 9], "texture": "#top"},
+				"south": {"uv": [5.5, 8, 6, 9], "texture": "#top"},
+				"west": {"uv": [6.5, 8, 5.5, 9], "texture": "#top"},
+				"up": {"uv": [5.5, 8, 6.5, 8.5], "rotation": 270, "texture": "#top"},
+				"down": {"uv": [9, 10.5, 12, 11.5], "rotation": 180, "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Top Window Frame",
+			"from": [1, 7, 5.5],
+			"to": [4, 8, 6.5],
+			"faces": {
+				"north": {"uv": [10, 8, 10.5, 9], "texture": "#top"},
+				"east": {"uv": [9.5, 8, 10.5, 9], "texture": "#top"},
+				"south": {"uv": [9, 7, 12, 8], "texture": "#sides"},
+				"west": {"uv": [10.5, 8, 9.5, 9], "texture": "#top"},
+				"up": {"uv": [9.5, 8, 10.5, 8.5], "rotation": 270, "texture": "#top"},
+				"down": {"uv": [9, 5.5, 12, 6.5], "rotation": 180, "texture": "#sides"}
+			}
+		},
+		{
+			"name": "Door Top Frame",
+			"from": [1, 11.5, 2],
+			"to": [4, 16, 14],
+			"faces": {
+				"east": {"uv": [13.75, 0, 2.25, 4.5], "texture": "#top"},
+				"west": {"uv": [13.75, 0, 2.25, 4.5], "texture": "#top"},
+				"up": {"uv": [3, 2, 0, 14], "texture": "#sides", "cullface": "south"},
+				"down": {"uv": [2.25, 4, 13.75, 4.5], "rotation": 270, "texture": "#top"}
+			}
+		},
+		{
+			"name": "Door Top Frame",
+			"from": [1, 0, 0],
+			"to": [4, 16, 2],
+			"faces": {
+				"north": {"uv": [6, 0, 9, 16], "texture": "#sides", "cullface": "south"},
+				"east": {"uv": [14, 0, 16, 16], "texture": "#top"},
+				"south": {"uv": [14.5, 0, 14, 16], "texture": "#top"},
+				"west": {"uv": [16, 0, 14, 16], "texture": "#top"},
+				"up": {"uv": [0, 14, 3, 16], "rotation": 180, "texture": "#sides", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Door Top Frame",
+			"from": [1, 0, 14],
+			"to": [4, 16, 16],
+			"faces": {
+				"north": {"uv": [2, 0, 1.5, 16], "texture": "#top"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#top"},
+				"south": {"uv": [9, 0, 6, 16], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [2, 0, 0, 16], "texture": "#top"},
+				"up": {"uv": [0, 0, 3, 2], "rotation": 180, "texture": "#sides", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Door Top Plank",
+			"from": [1.25, 0, 2],
+			"to": [3.75, 11.5, 6],
+			"faces": {
+				"east": {"uv": [10, 4.5, 14, 16], "texture": "#top"},
+				"west": {"uv": [14, 4.5, 10, 16], "texture": "#top"}
+			}
+		},
+		{
+			"name": "Door Top Plank",
+			"from": [1.25, 8.5, 6],
+			"to": [3.75, 11.5, 10],
+			"faces": {
+				"east": {"uv": [6, 4.5, 10, 7.5], "texture": "#top"},
+				"west": {"uv": [6, 4.5, 10, 7.5], "texture": "#top"}
+			}
+		},
+		{
+			"name": "Door Top Plank",
+			"from": [1.25, 0, 10],
+			"to": [3.75, 11.5, 14],
+			"faces": {
+				"east": {"uv": [2, 4.5, 6, 16], "texture": "#top"},
+				"west": {"uv": [6, 4.5, 2, 16], "texture": "#top"}
+			}
+		},
+		{
+			"name": "Door Top Plank",
+			"from": [1.25, 0, 6],
+			"to": [3.75, 3, 10],
+			"faces": {
+				"east": {"uv": [6, 13, 10, 16], "texture": "#top"},
+				"west": {"uv": [10, 13, 6, 16], "texture": "#top"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Top",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+		}
+	]
+}
