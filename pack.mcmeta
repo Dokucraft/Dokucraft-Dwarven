@@ -1,1 +1,7 @@
-{"pack":{"pack_format":5,"description":"\u00A74Strong and Stout\n\u00A76By Handsome_Dan"},"meta":{"game_version":"1.15"}}
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "ยง4Strong and Stout\nยง6V1.18.1 By Handsome_Dan and Dokucraft TSC"
+  },
+  "__game_version": "1.18.1"
+}
