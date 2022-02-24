@@ -6,5 +6,5 @@
 #define TOOLTIP_OUTLINE_COLOR vec4(0.96, 0.843, 0.329, 1.0)
 
 // Loading screen background color
-#define LOADING_BG_DARK_COLOR vec3(0.043, 0.141, 0.207)
-#define LOADING_BG_COLOR vec3(0.043, 0.141, 0.207)
+#define LOADING_BG_DARK_COLOR vec3(0.341, 0.388, 0.364)
+#define LOADING_BG_COLOR vec3(0.341, 0.388, 0.364)
