@@ -1,4 +1,8 @@
 
+// ============================================================================
+//  Waving & swaying animations
+// ============================================================================
+
 // Remove this line to disable the waving animation for things like plants, leaves, and fire
 #define ENABLE_WAVING
 
@@ -10,3 +14,73 @@
 
 // Controls how much hanging lanterns sway
 #define LANTERN_SWAY_MULTIPLIER 1.0
+
+
+
+// ============================================================================
+//  Parallax subsurface
+// ============================================================================
+
+// Remove this line to disable the parallax subsurface effect (used on blue/packed ice, diamond blocks, diamond ore, etc.) - Also disables all other PSS settings
+// Disabling it may improve performance on lower-end graphics cards
+#define ENABLE_PARALLAX_SUBSURFACE
+
+// Remove this line to disable the SSE shallow angle artifact fix
+// The fix makes the surface more visible when viewed at very shallow angles, disabling it will make the subsurface always visible, which can lead to some strange effects in certain cases
+// The performance impact of this should be tiny, you probably won't notice the difference
+#define ENABLE_PSS_SHALLOW_ANGLE_FIX
+
+// Remove this line to disable the chromatic aberration effect in the subsurface
+// Disabling it may improve performance on lower-end graphics cards
+#define ENABLE_PSS_CHROMATIC_ABERRATION
+
+
+
+// ============================================================================
+//  Translucent materials
+// ============================================================================
+
+// Remove this line to disable the Fresnel effect on translucent materials (water, stained/tinted glass, honey/slime block, etc.)
+#define ENABLE_FRESNEL_EFFECT
+
+// Removing this line will make the Fresnel effect perform better, but it will look slightly incorrect in some cases
+#define ENABLE_FRAGMENT_FRESNEL
+
+// Remove this line to disable the desaturation of the biome color on highlights on translucent materials (used to make the highlights on water look better)
+#define ENABLE_DESATURATE_TRANSLUCENT_HIGHLIGHT_BIOME_COLOR
+
+
+
+// ============================================================================
+//  End sky
+// ============================================================================
+
+// Remove the two slashes at the start of this line to enable the custom end sky
+// #define ENABLE_CUSTOM_END_SKY
+
+// Remove this line to disable the glow around the rift in the end sky
+#define ENABLE_END_SKY_RIFT_GLOW
+
+// Remove this line to disable the stars outside of the rift in the end sky
+#define ENABLE_END_SKY_STARS_OUTSIDE_RIFT
+
+// Remove this line to disable the stars inside the rift in the end sky
+#define ENABLE_END_SKY_STARS_INSIDE_RIFT
+
+// Remove the two slashes at the start of this line to enable the pixelization filter
+// #define ENABLE_END_SKY_PIXELIZATION
+#define END_SKY_PIXELIZATION_RESOLUTION 512
+
+
+
+// ============================================================================
+//  Better lava
+// ============================================================================
+
+// Remove the two slashes at the start of this line to enable better lava.
+// Better lava also requires the lava_still_alt.png texture to be renamed to lava_still.png
+// This effect randomizes the texture on each block of lava and varies the glow of it over time and position
+// #define ENABLE_BETTER_LAVA
+
+// Only change this value if you add or remove lava texture variants
+#define LAVA_VARIANT_COUNT 5
