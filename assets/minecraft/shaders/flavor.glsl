@@ -9,6 +9,9 @@
 #define LOADING_BG_DARK_COLOR vec3(0.341, 0.388, 0.364)
 #define LOADING_BG_COLOR vec3(0.341, 0.388, 0.364)
 
+// Grass color multiplier for shader grass effects
+#define GRASS_COLOR_MULTIPLIER vec3(0.218, 0.552, 0.293)
+
 // Otherworldy Rift End sky colors
 #define END_SKY_RIFT_COLOR vec3(0.5, 0.2, 1.0)
 
