@@ -11,3 +11,8 @@
 
 // Grass color multiplier for shader grass effects
 #define GRASS_COLOR_MULTIPLIER vec3(0.218, 0.552, 0.293)
+
+// Water tint correction weights
+#define WATER_TINT_RED   vec3( 1.0,   0.2,   0.3)
+#define WATER_TINT_GREEN vec3( 0.0,   1.0,   0.5)
+#define WATER_TINT_BLUE  vec3( 0.0,   0.0,   1.0)
