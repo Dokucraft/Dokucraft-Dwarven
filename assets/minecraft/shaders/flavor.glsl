@@ -12,6 +12,9 @@
 // Grass color multiplier for shader grass effects
 #define GRASS_COLOR_MULTIPLIER vec3(0.218, 0.552, 0.293)
 
+// Tint color for foliage items using biome colors
+#define FOLIAGE_ITEM_TINT vec3(0.353, 0.463, 0.212)
+
 // Water tint correction weights
 #define WATER_TINT_RED   vec3( 1.0,   0.2,   0.3)
 #define WATER_TINT_GREEN vec3( 0.0,   1.0,   0.5)
