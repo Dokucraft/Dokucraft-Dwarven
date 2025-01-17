@@ -1,0 +1,50 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": "Bone Pickaxe",
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/cit/renamable_alts/tools/bone_pickaxe"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:range_dispatch",
+			"property": "minecraft:damage",
+			"entries": [
+				{
+					"threshold": 0,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/wooden_pickaxe"
+					}
+				},
+				{
+					"threshold": 0.67,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/damaged_tools/pickaxe/wooden/damaged"
+					}
+				},
+				{
+					"threshold": 0.82,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/damaged_tools/pickaxe/wooden/broken"
+					}
+				},
+				{
+					"threshold": 0.95,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/damaged_tools/pickaxe/wooden/wrecked"
+					}
+				}
+			]
+		}
+	}
+}
