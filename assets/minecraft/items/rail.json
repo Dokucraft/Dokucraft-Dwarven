@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "block/rails/rail"
+    "model": "minecraft:block/rails/rail"
   }
 }
