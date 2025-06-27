@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 64,
+    "supported_formats": [63, 64],
     "description": [
       { "text": "Strong and stout\n", "color": "#d9a349" },
       { "text": "v1.21.7", "color": "#e0e0dc" },
