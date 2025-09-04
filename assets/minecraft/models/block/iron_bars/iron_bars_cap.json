@@ -1,0 +1,20 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by SyndiShanX",
+	"ambientocclusion": false,
+	"textures": {
+		"main": "block/iron_bars",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"name": "Center",
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"east": {"uv": [9, 0, 7, 16], "texture": "#main"},
+				"west": {"uv": [7, 0, 9, 16], "texture": "#main"}
+			}
+		}
+	]
+}

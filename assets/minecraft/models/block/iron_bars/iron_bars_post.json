@@ -1,0 +1,25 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by SyndiShanX",
+	"ambientocclusion": false,
+	"textures": {
+		"main": "block/iron_bars",
+		"alt": "block/iron_bar",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"name": "Post",
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [7, 0, 9, 16], "texture": "#main"},
+				"east": {"uv": [7, 0, 9, 16], "texture": "#main"},
+				"south": {"uv": [7, 0, 9, 16], "texture": "#main"},
+				"west": {"uv": [7, 0, 9, 16], "texture": "#main"},
+				"up": {"uv": [7, 2.5, 9, 4.5], "texture": "#alt"},
+				"down": {"uv": [7, 2.5, 9, 4.5], "texture": "#alt"}
+			}
+		}
+	]
+}
