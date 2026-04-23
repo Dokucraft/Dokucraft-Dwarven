@@ -1,0 +1,10 @@
+{
+  "parent": "block/beds/bed_head_alt",
+  "textures": {
+    "north": "block/beds/gray/bed_head_north",
+    "east": "block/beds/gray/bed_head_east",
+    "west": "block/beds/gray/bed_head_west",
+    "up": "block/beds/gray/bed_head_up",
+    "down": "block/beds/gray/bed_down"
+  }
+}
